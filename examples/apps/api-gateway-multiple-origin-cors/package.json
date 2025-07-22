@@ -8,9 +8,9 @@
   },
   "author": "",
   "devDependencies": {
-    "jest": "^23.1.0",
-    "lodash": ">=4.17.11",
-    "merge": ">=1.2.1"
+    "jest": "^30.0.5",
+    "lodash": ">=4.17.21",
+    "merge": ">=2.1.1"
   },
   "jest": {
     "testPathIgnorePatterns": [
